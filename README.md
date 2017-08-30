@@ -1,5 +1,7 @@
 # usc-vpn-linux-setup
 
+Because nobody cared to put a client for linux [here](https://itservices.usc.edu/vpn/)
+
 ## Install dependencies
 
 ```bash
