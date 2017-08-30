@@ -25,7 +25,19 @@ sudo ifconfig tun1 down
 
 ```
 
-`VPNGRP` can be 1-Wireless|2-Home|3-OffCampusOther|4-UniversityHospitals|5-DohenyEyeInstitute|6-LAC-USC|7-KUSC|8-USCTrafficOnly|9a-USC-SBL|9b-DUO-test|test
+`VPNGRP` can be :
+
+- 1-Wireless
+- 2-Home 
+- 3-OffCampusOther
+- 4-UniversityHospitals
+- 5-DohenyEyeInstitute
+- 6-LAC-USC
+- 7-KUSC
+- 8-USCTrafficOnly
+- 9a-USC-SBL
+- 9b-DUO-test
+- test
 
 ## Run
 ```bash
