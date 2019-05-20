@@ -1,4 +1,4 @@
-# usc-vpn-linux-setup
+# usc-vpn-linux-setup - One command setup for running USC VPN on linux systems
 
 Because nobody cared to put a client for linux [here](https://itservices.usc.edu/vpn/)
 
