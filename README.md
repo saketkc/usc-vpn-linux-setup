@@ -2,7 +2,7 @@
 
 Because nobody cared to put a client for linux [here](https://itservices.usc.edu/vpn/)
 
-## Install dependencies
+## Installing dependencies
 
 ```bash
 sudo apt-get install openconnect lib32ncurses5 lib32tinfo5 lib32z1 libc6-i386\
@@ -10,6 +10,8 @@ sudo apt-get install openconnect lib32ncurses5 lib32tinfo5 lib32z1 libc6-i386\
 ```
 
 ## start_vpn.sh
+
+The only thing you will need to edit ideally is `VPNUSER`:
 
 ```bash
 VPNUSER=<your-username-here>
@@ -41,7 +43,8 @@ sudo ifconfig tun1 down
 - 9b-DUO-test
 - test
 
-## Run
+## Execution
+
 ```bash
 $ chmod +x start_vpn.sh
 $ ./start_vpn.sh
