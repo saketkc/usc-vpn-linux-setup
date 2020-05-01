@@ -1,6 +1,15 @@
 # usc-vpn-linux-setup - One command setup for running USC VPN on linux systems
 
-Because nobody cared to put a client for linux [here](https://itservices.usc.edu/vpn/)
+Because nobody cared to put a client for linux [here](https://itservices.usc.edu/vpn/).
+
+## Recent DUO change
+
+This script no longer works after the recent DUO change. A quick fix is to use AnyConnect from Cisco:
+
+1. Go to https://vpn.usc.edu/+CSCOE+/portal.html
+2. Download linux client from the 'AnyConnect' tab
+3. Run AnyConnect with vpn.usc.edu
+
 
 ## Installing dependencies
 
