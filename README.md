@@ -1,6 +1,9 @@
 # usc-vpn-linux-setup - One command setup for running USC VPN on linux systems
 
 Because nobody cared to put a client for linux [here](https://itservices.usc.edu/vpn/).
+**Update**: This script no longer works. From a first pass reading it seems DUO push
+is not enabled for OpenVPN upstream. However, AnyConnect now has a supported client
+for linux that works (See next section).
 
 ## Recent DUO change
 
